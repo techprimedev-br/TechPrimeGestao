@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+update_config.json
+*.update_tmp
